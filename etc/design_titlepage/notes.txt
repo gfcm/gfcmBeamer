@@ -1,0 +1,16 @@
+1. Ocean bottom banner
+
+Copied from East Med presentation, pasted into PSP, saved as PNG, converted to
+JPG.
+
+2. FAO and GFCM top banner
+
+Arrange on top of a full screenshot of a title slide, to get size and location
+
+FAO logo is from SVG, color adjusted to 70-140-200 [#468cc8].
+
+GFCM logo is from 480 px wide PNG
+
+FAO text is Noto Sans SemiCondensed 17, 95% line spacing, color 70-140-200
+
+GFCM text is Noto Sans SemiCondensed 14.6, 85% line spacing, color 55-85-110
